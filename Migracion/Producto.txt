@@ -1,0 +1,17 @@
+1	Cuaderno 100 hojas	norma	6500
+2	Cuaderno 80 hojas	norma	5000
+3	Cuaderno 50 hojas	norma	4000
+4	Regla 30 cm	scribe	500
+5	Borrador Nata	scribe	300
+6	Lapiz No 2 Negro	norma	350
+7	Lapiz Rojo	norma	350
+8	Colores x 12	scribe	12500
+9	Plastilina	norma	3000
+10	Temperas x 6	colorcitos	8000
+11	Vinilo Rojo	colorcitos	1200
+12	Vinilo Azul	colorcitos	1200
+13	Vinilo Verde	colorcitos	1200
+14	Vinilo Blanco	colorcitos	1200
+15	Vinilo Negro	colorcitos	1200
+16	Papel Iris x joja	kyoto	100
+17	Papel bond x hoja	kyoto	100
